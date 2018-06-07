@@ -10,6 +10,7 @@ lang: ru-RU
 editor_options:
   chunk_output_type: console
 ---
+привет привет
 
 
 Шаманское заклинание для настройки глобальных опций отчёта:
